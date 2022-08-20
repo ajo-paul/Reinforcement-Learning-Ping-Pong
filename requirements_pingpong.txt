@@ -1,0 +1,8 @@
+gym
+gym[atari,accept-rom-license]==0.21.0
+swig
+Box2D
+pyglet==1.2.4
+gym[box2d]
+pickle5
+autorom[accept-rom-license]
